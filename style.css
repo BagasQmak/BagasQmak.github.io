@@ -228,6 +228,10 @@ nav h2 {
     font-size: 2em;
   }
 
+  .project-grid {
+    row-gap: 20px;
+  }
+
   #contact h2 {
     font-size: 1.7em;
   }
